@@ -23,7 +23,8 @@ ReguBot terdiri dari 5 agent spesialis, masing-masing memiliki tugas dan keahlia
 5. **QA Agent**: Chatbot interaktif untuk tanya jawab, konsultasi, dan penjelasan detail hasil analisis, dengan jawaban berbasis regulasi dan referensi pasal.
 
 ### Alur Kerja Sistem
-<img width="911" height="555" alt="image" src="https://github.com/user-attachments/assets/cf0348e9-4f8e-4784-a1c6-e04e453f5bc8" />
+<img width="1395" height="78" alt="image" src="https://github.com/user-attachments/assets/f3eb5a07-2612-46f3-abd9-dff0e82bee56" />
+
 
    
 1. **Upload Dokumen**: User mengunggah dokumen digital yang akan dianalisis.
