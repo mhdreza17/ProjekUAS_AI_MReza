@@ -81,6 +81,9 @@ Sistem ini sangat cocok untuk tugas akhir, riset compliance AI, audit internal, 
 - Jawaban berdasarkan analisis dan regulasi
 - Referensi pasal yang akurat
 
+DOKUMENTASI 
+<img width="745" height="666" alt="image" src="https://github.com/user-attachments/assets/32aff688-3ff6-4f00-9548-d7ea836d14f0" />
+
 ## 🚀 Instalasi dan Setup
 
 ### Prasyarat
