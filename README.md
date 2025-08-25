@@ -23,33 +23,8 @@ ReguBot terdiri dari 5 agent spesialis, masing-masing memiliki tugas dan keahlia
 5. **QA Agent**: Chatbot interaktif untuk tanya jawab, konsultasi, dan penjelasan detail hasil analisis, dengan jawaban berbasis regulasi dan referensi pasal.
 
 ### Alur Kerja Sistem
-[User]
-   │
-   ▼
-[Frontend (Flask + HTML/JS)]
-   │
-   ▼
-[API Endpoint]
-   │
-   ▼
-[AgentCoordinator]
-   │
-   ├──► [DocumentCollectorAgent] ──► Ekstraksi & Preprocessing Dokumen
-   │
-   ├──► [StandardRetrieverAgent] ──► Retrieval Regulasi (ChromaDB + Embedding)
-   │
-   ├──► [ComplianceCheckerAgent] ──► Analisis Compliance (Groq LLM)
-   │
-   ├──► [ReportGeneratorAgent] ──► Generate Laporan (PDF/DOCX)
-   │
-   └──► [QAAgent] ──► Chatbot QA (Groq LLM + Context)
-   │
-   ▼
-[Frontend Dashboard]
-   │
-   ├──► Tampilkan Score, Issues, Evidence, Rekomendasi
-   ├──► Download Laporan
-   └──► Chat QA
+<img width="911" height="555" alt="image" src="https://github.com/user-attachments/assets/cf0348e9-4f8e-4784-a1c6-e04e453f5bc8" />
+
    
 1. **Upload Dokumen**: User mengunggah dokumen digital yang akan dianalisis.
 2. **Pilih Standar Compliance**: User memilih satu atau lebih standar regulasi (GDPR, NIST, UU PDP, POJK, BSSN).
