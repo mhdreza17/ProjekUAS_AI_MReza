@@ -82,6 +82,9 @@ Sistem ini sangat cocok untuk tugas akhir, riset compliance AI, audit internal, 
 - Referensi pasal yang akurat
 
 DOKUMENTASI 
+<img width="1914" height="920" alt="Screenshot 2025-08-25 150255" src="https://github.com/user-attachments/assets/7a5cf36f-1ac6-4f5b-9dae-c8c4f4c20f43" />
+<img width="1919" height="942" alt="Screenshot 2025-08-25 150308" src="https://github.com/user-attachments/assets/2e29cedb-85ec-41f5-af69-38f665a90b2f" />
+Hasil Report <img width="1200" height="740" alt="Screenshot 2025-08-25 150331" src="https://github.com/user-attachments/assets/af03bc1e-a6ad-4bd7-8c86-23bc494d5b4d" />
 <img width="745" height="666" alt="image" src="https://github.com/user-attachments/assets/32aff688-3ff6-4f00-9548-d7ea836d14f0" />
 
 ## 🚀 Instalasi dan Setup
